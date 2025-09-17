@@ -29,7 +29,7 @@ I am majoring in Computer ENgeneering at the University of Zaragoza, Spain. I di
         copiarTablero(siguiente, inicial);
     }
     cout << "Sobreviven "<< NumCelulasVivas(siguiente) << " células.";
-}
+    }   
     ```
 
 ## Languages 
