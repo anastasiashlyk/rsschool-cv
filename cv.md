@@ -4,9 +4,12 @@
 * Email: shlykk.anastasia@gmail.com
 * Phone: +34643355413
 * Github: anastasiashlyk
+=================================
 
 ## About me
-I am majoring in Computer ENgeneering at the University of Zaragoza, Spain. I discovered myself to be interested in web development and would like to improve my skills at this area. 
+Computer Engineering student at the University of Zaragoza with a strong interest in web development. Actively seeking to improve and expand my skills in this area.
+
+==================================
 
 ## Skills
 * HTML
@@ -14,6 +17,8 @@ I am majoring in Computer ENgeneering at the University of Zaragoza, Spain. I di
 * GIT/GITHUB
 * JavaScript
 * C++
+
+==================================
 
 ## Code example
     ```
@@ -31,6 +36,8 @@ I am majoring in Computer ENgeneering at the University of Zaragoza, Spain. I di
     cout << "Sobreviven "<< NumCelulasVivas(siguiente) << " células.";
     }   
     ```
+
+================================
 
 ## Languages 
 * English: C1
