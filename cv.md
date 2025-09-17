@@ -4,12 +4,12 @@
 * Email: shlykk.anastasia@gmail.com
 * Phone: +34643355413
 * Github: anastasiashlyk
-=================================
+***
 
 ## About me
 Computer Engineering student at the University of Zaragoza with a strong interest in web development. Actively seeking to improve and expand my skills in this area.
 
-==================================
+***
 
 ## Skills
 * HTML
@@ -18,7 +18,7 @@ Computer Engineering student at the University of Zaragoza with a strong interes
 * JavaScript
 * C++
 
-==================================
+***
 
 ## Code example
     ```
@@ -37,7 +37,7 @@ Computer Engineering student at the University of Zaragoza with a strong interes
     }   
     ```
 
-================================
+***
 
 ## Languages 
 * English: C1
